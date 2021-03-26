@@ -1,0 +1,16 @@
+﻿  UnitTest.cpp
+E:\Studia\VS source\repos\kod morse'a\kod morse'a\kod morse'a.cpp(51,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(15,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(20,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(25,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(30,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(35,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(40,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(45,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(50,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(55,4): warning C4551: wywołaniu funkcji brakuje listy argumentów
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(58,1): warning C4305: "argument": obcięcie z "int" do "char16_t"
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(58,32): warning C4309: "argument": obcięcie stałej wartości
+E:\Studia\VS source\repos\kod morse'a\UnitTest\UnitTest.cpp(60,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+     Trwa tworzenie biblioteki E:\Studia\VS source\repos\kod morse'a\Debug\UnitTest.lib i obiektu E:\Studia\VS source\repos\kod morse'a\Debug\UnitTest.exp
+  UnitTest.vcxproj -> E:\Studia\VS source\repos\kod morse'a\Debug\UnitTest.dll
